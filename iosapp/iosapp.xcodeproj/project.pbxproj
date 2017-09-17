@@ -10,6 +10,7 @@
 		93AA360A3F4E28B090D0E61B /* Pods_iosapp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5EBE33D313FAB55E49503AB0 /* Pods_iosapp.framework */; };
 		9B995F3D1F6E4C9F00B600C2 /* GTapiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B995F3C1F6E4C9F00B600C2 /* GTapiManager.swift */; };
 		9B995F411F6E5F1B00B600C2 /* GTTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B995F401F6E5F1B00B600C2 /* GTTabBarViewController.swift */; };
+		9B995F431F6E6F8200B600C2 /* GTViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B995F421F6E6F8200B600C2 /* GTViewController.swift */; };
 		9BF1068C1F6CAFBE001BDAD8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF1068B1F6CAFBE001BDAD8 /* AppDelegate.swift */; };
 		9BF1068E1F6CAFBE001BDAD8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF1068D1F6CAFBE001BDAD8 /* ViewController.swift */; };
 		9BF106911F6CAFBE001BDAD8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9BF1068F1F6CAFBE001BDAD8 /* Main.storyboard */; };
@@ -43,6 +44,7 @@
 		950F800A6B600E680D1E776E /* Pods-iosapp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iosapp.release.xcconfig"; path = "Pods/Target Support Files/Pods-iosapp/Pods-iosapp.release.xcconfig"; sourceTree = "<group>"; };
 		9B995F3C1F6E4C9F00B600C2 /* GTapiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GTapiManager.swift; sourceTree = "<group>"; };
 		9B995F401F6E5F1B00B600C2 /* GTTabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GTTabBarViewController.swift; sourceTree = "<group>"; };
+		9B995F421F6E6F8200B600C2 /* GTViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GTViewController.swift; sourceTree = "<group>"; };
 		9BF106881F6CAFBE001BDAD8 /* iosapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iosapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9BF1068B1F6CAFBE001BDAD8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9BF1068D1F6CAFBE001BDAD8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -123,6 +125,7 @@
 				9BF1068B1F6CAFBE001BDAD8 /* AppDelegate.swift */,
 				9BF1068D1F6CAFBE001BDAD8 /* ViewController.swift */,
 				9BF1068F1F6CAFBE001BDAD8 /* Main.storyboard */,
+				9B995F421F6E6F8200B600C2 /* GTViewController.swift */,
 				9BF106BB1F6CBA8D001BDAD8 /* GTMainTableViewCell.swift */,
 				9B995F3C1F6E4C9F00B600C2 /* GTapiManager.swift */,
 				9BF106B91F6CB5D7001BDAD8 /* GTMainTableViewController.swift */,
@@ -360,6 +363,7 @@
 				9BF1068C1F6CAFBE001BDAD8 /* AppDelegate.swift in Sources */,
 				9B995F411F6E5F1B00B600C2 /* GTTabBarViewController.swift in Sources */,
 				9BF106BC1F6CBA8D001BDAD8 /* GTMainTableViewCell.swift in Sources */,
+				9B995F431F6E6F8200B600C2 /* GTViewController.swift in Sources */,
 				9B995F3D1F6E4C9F00B600C2 /* GTapiManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
