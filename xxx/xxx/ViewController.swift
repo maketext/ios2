@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  iosapp
+//  xxx
 //
 //  Created by lee on 2017. 9. 16..
 //  Copyright © 2017년 lee. All rights reserved.
@@ -20,7 +20,6 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-    
 
 }
 

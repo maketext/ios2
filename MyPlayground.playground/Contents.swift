@@ -2,7 +2,5 @@
 
 import UIKit
 
-var str:String = "Hello, playground"
-for i in 1..<10 {
-    print(i * 2)
-}
+var a:String? = nil
+print(a!)
